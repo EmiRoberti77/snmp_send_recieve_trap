@@ -126,6 +126,6 @@ Sample of common SNMP trap OIDs and their meanings:
 
   Links used to build this code
   
-  http://www.net-snmp.org/docs/readmefiles.html
-  https://www.npmjs.com/package/net-snmp
+  - http://www.net-snmp.org/docs/readmefiles.html
+  - https://www.npmjs.com/package/net-snmp
   
