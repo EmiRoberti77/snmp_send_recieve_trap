@@ -123,3 +123,9 @@ Sample of common SNMP trap OIDs and their meanings:
 - 1.3.6.1.6.3.1.1.5.4: LinkUp (network link is up)
 - 1.3.6.1.6.3.1.1.5.5: Authentication Failure (failed SNMP authentication)
 - 1.3.6.1.6.3.1.1.5.6: EGP Neighbor Loss (external gateway protocol neighbor down)
+
+  Links used to build this code
+  
+  http://www.net-snmp.org/docs/readmefiles.html
+  https://www.npmjs.com/package/net-snmp
+  
