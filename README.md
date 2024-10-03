@@ -60,7 +60,7 @@ Once running, the receiver will log traps it receives.
 03/10/2024, 08:59:26: LinkUp: 127.0.0.1 : 1.3.6.1.6.3.1.1.5.4 -> someValue
 ```
 
-- 2. Running the Trap Sender
+## Running the Trap Sender
 
 You can simulate network events by sending SNMP traps. The sendTrap.js file allows you to send different types of traps, such as LinkUp, LinkDown, WarmStart, and ColdStart.
 
